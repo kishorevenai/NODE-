@@ -1,0 +1,124 @@
+20230406	23:50:41	8e803af7-c4fd-48cb-955b-f05d0ba04a60	Error:Not allowed by CORS
+20230406	23:50:42	0b8ed4dd-824e-4feb-a75c-49cf581bb545	Error:Not allowed by CORS
+20230406	23:50:50	aaa54433-a0c4-4677-83cc-60b623ec36d6	Error:Not allowed by CORS
+20230406	23:50:51	af910c56-c61e-4ae1-813a-88f9e0b73129	Error:Not allowed by CORS
+20230406	23:50:51	d655b7be-7a61-452e-9279-efb63ce63711	Error:Not allowed by CORS
+20230406	23:50:51	b8ed79d8-ee89-471a-ac6b-de29ebba85f5	Error:Not allowed by CORS
+20230407	11:38:24	1d431ca4-d1d3-4f56-a007-302c0f13cb9d	ReferenceError:req is not defined
+20230407	11:38:25	f361c592-4ef2-487b-ba19-7a1292db8823	ReferenceError:req is not defined
+20230407	11:38:54	0b97eab1-1c4c-48ba-bffd-25f3873f7471	ReferenceError:req is not defined
+20230407	11:38:55	23e99cf5-6174-4913-ab33-f0933bdec49c	ReferenceError:req is not defined
+20230407	11:38:56	b743b89b-1b07-47e2-b6dd-8a50c9fe49d1	ReferenceError:req is not defined
+20230407	11:38:56	33f0eb34-993c-460c-a571-fc69d551c277	ReferenceError:req is not defined
+20230407	11:38:56	f44938ef-a8d0-43c4-aa3e-0329190b27e0	ReferenceError:req is not defined
+20230407	11:38:56	75b79c76-8a67-4a5d-82c0-d40535415d82	ReferenceError:req is not defined
+20230407	11:54:42	bb9ed4e0-9ef2-4bcb-9e56-00435d1e22d0	SyntaxError:Unexpected token f in JSON at position 8
+20230407	12:44:41	1a714c2d-8bd2-4ae8-8797-e261f38d9f2f	Error:Cannot set headers after they are sent to the client
+20230407	12:45:27	aa63a187-6b40-458b-b699-971a2b46ef54	Error:Cannot set headers after they are sent to the client
+20230407	12:46:02	dbdfcdaf-cf6b-4c84-bd5b-e6e8c3ae45ee	Error:Cannot set headers after they are sent to the client
+20230407	12:46:14	81bd031e-2833-45fd-b59d-725879c1db46	Error:Cannot set headers after they are sent to the client
+20230407	12:46:51	81c6b3e2-5c68-4a83-a46b-7cc5a221c8ff	Error:Cannot set headers after they are sent to the client
+20230407	12:47:25	0c71d538-5c4f-4ded-87ec-fef35a231dd7	Error:Cannot set headers after they are sent to the client
+20230407	16:25:53	65880151-38fc-4247-9ba5-8f20ef78cd64	Error:Cannot set headers after they are sent to the client
+20230408	13:38:22	2f659c4d-b347-4597-8705-5f07a30ba2b2	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:05	db821b38-7623-48d1-8ff6-5dcaa3318159	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:06	669cbcec-3f92-4ff9-b271-1fc39a79598c	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:08	3d20b6d4-1755-4527-80f0-eedfcd3aded0	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:09	45428fe9-13ac-43fc-b584-7d8b8c0f1e86	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:09	99d71a8c-01ce-497d-86fc-46f559176081	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:09	854aca36-e544-4147-83d7-10a3fb076f2f	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:45	76c6e126-260e-419b-9c3f-52ea36fcd472	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:45	3fc9439c-a328-4dc5-a398-4c6aecced46a	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:45	ef01fdeb-414e-424b-96cd-0aa217100747	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:45	0e0cd478-0162-438a-a326-fd39d81b63ba	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:46	87aac409-47dd-4f75-a23c-ce9d8734eaa0	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:46	cd89fd49-df1e-490b-8195-84de89bc5da3	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:46	d92881fb-c909-4c35-ac1b-d550baf6e974	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:53	8213677a-32d1-430b-9c33-110e1d37fafd	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:53	6b5d59e2-8211-435e-a1e3-bca34444a368	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:53	9a7f1052-a7ae-4e55-b053-a7bfb436b393	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:53	8946087a-d1fc-4d61-b917-4bc788b519d3	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:54	ff008942-b013-4c1a-966c-09f07ec73e4c	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:45:54	e754f27c-cc5c-4549-9d97-254703eee392	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:46:48	2d229634-da75-4b31-9e87-da7004641d2a	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:46:49	054db263-66d1-4737-91b3-0e0752f755d3	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:46:49	33905f4e-0d5e-45a6-b623-bb6219dc9802	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:46:49	613eb0bb-8d8e-4563-b0aa-38378872a534	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:46:55	138b4bff-9881-4544-b629-264dfedac0d8	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:46:56	2cd4a37a-04bc-4182-ac0b-7e9b5d6f5784	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:47:45	be208a8e-ecb5-48d4-85dc-79b3180e1e19	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:47:52	73949a45-628c-46a4-a54e-ea7c269a098d	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:48:11	324d6e0b-8e41-4792-9e5b-e21143e61b5b	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:48:11	5d000f07-881d-458d-9797-dea23555a4c2	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:48:12	ca35701c-6d6e-4e6f-9d84-52ebf7de68f7	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:48:12	383ccec0-937b-47bb-ab50-98da7e98cbae	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:48:22	f7197085-d8f1-4cc4-b402-2062234c8fa7	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:48:23	70057388-bbe5-4a5c-8be5-40efa6cb9d54	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:48:23	8545e728-8038-456f-b81e-08417e933e6f	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:48:23	da9b8e26-f69c-490a-9d0d-96734f0fda70	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:48:23	7abf07a8-ac2f-41dd-ad75-5a4b369aabbe	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:48:24	74167f08-ae4e-46b4-92e6-093d02d414bf	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:55:35	ef0a6dc7-7e91-4c14-b83d-a4ebd8526ba9	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:55:37	dcc51cb5-9d25-433b-82b2-1fe6dfeff96a	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:55:38	f8f383f4-549e-4969-9aad-a0e6c15637da	TypeError:Cannot read properties of undefined (reading 'jwt')
+20230408	13:56:24	57ee0759-fae5-44a5-8c3e-0aa5bd9c0958	TypeError:Cannot convert object to primitive value
+20230408	13:56:32	988bd6b7-d5fa-4179-8abd-a69d3e0fd82d	TypeError:Cannot convert object to primitive value
+20230408	13:57:50	41a1ff94-1454-48f9-aa21-7648f49dde5f	TypeError:Cannot convert object to primitive value
+20230408	13:58:27	0c26c823-ec6a-4a7e-9bd3-5bb924533fc1	Error:Cannot set headers after they are sent to the client
+20230408	13:59:33	c764f430-adb1-4cdc-a03d-e10ec6a328d4	Error:Cannot set headers after they are sent to the client
+20230408	13:59:50	74ba3b49-f9c6-41a5-ba39-d8388262697a	Error:Cannot set headers after they are sent to the client
+20230408	14:12:29	eac4b073-c554-4510-87fd-90126a03449d	Error:Cannot set headers after they are sent to the client
+20230408	14:19:25	5457248c-c53b-41d4-b4a0-e19a31a953b1	Error:Cannot set headers after they are sent to the client
+20230408	14:19:25	5c599859-5ae3-4509-acb2-19ec519a1fe5	Error:Cannot set headers after they are sent to the client
+20230408	14:19:26	9d7a6397-14ef-4b2f-9af9-e1cc32b3a2b2	Error:Cannot set headers after they are sent to the client
+20230408	14:19:26	d652d075-8dcd-44a6-b179-56f8e046cd61	Error:Cannot set headers after they are sent to the client
+20230408	14:19:26	40063a4c-2370-4d92-bc66-030e5a84a984	Error:Cannot set headers after they are sent to the client
+20230408	14:19:44	27641978-dd9a-4ab2-9f78-5c9e9b759994	Error:Cannot set headers after they are sent to the client
+20230408	14:20:18	53e05ba8-d5f2-461e-9795-1af0ff292758	Error:Cannot set headers after they are sent to the client
+20230408	14:20:33	94429e69-da68-41c9-a67d-10cc1bca1396	Error:Cannot set headers after they are sent to the client
+20230408	14:22:41	66395544-18af-4978-81c7-41b86a0c9b36	Error:Cannot set headers after they are sent to the client
+20230408	14:22:55	6961551f-18ae-4bae-af30-6b50e7516960	Error:Cannot set headers after they are sent to the client
+20230408	14:23:06	01501f5a-9085-4881-a1eb-eee72062db11	Error:Cannot set headers after they are sent to the client
+20230408	14:23:09	a52a26a3-61dc-4dca-a75e-a13a2de96c52	Error:Cannot set headers after they are sent to the client
+20230408	14:23:10	f5e890dc-062f-41b2-8075-f20ddeff7b2c	Error:Cannot set headers after they are sent to the client
+20230408	14:23:10	0e547e24-be2d-4816-98ef-c4503daf4bba	Error:Cannot set headers after they are sent to the client
+20230408	14:23:10	5c64b24c-53f9-442b-8045-59d0a0c134f3	Error:Cannot set headers after they are sent to the client
+20230408	14:23:10	71641efa-1ce7-4a92-9cd4-f1a74c341659	Error:Cannot set headers after they are sent to the client
+20230408	14:23:10	48c50ffb-2dd9-47aa-968d-cef1e7bfb701	Error:Cannot set headers after they are sent to the client
+20230408	14:23:10	8d0b7b3a-5189-45e4-be60-ceffcbb65210	Error:Cannot set headers after they are sent to the client
+20230408	14:23:11	6fa83f24-b362-4f80-924d-a09f04517e6c	Error:Cannot set headers after they are sent to the client
+20230408	14:23:11	0ed092c0-f5d8-4713-aa74-7c488e6e1216	Error:Cannot set headers after they are sent to the client
+20230408	14:23:11	452d6b9c-78b5-472a-9fb9-3471a526dbe4	Error:Cannot set headers after they are sent to the client
+20230408	14:23:11	0a8758d6-dbe3-4c8a-bf52-e8c159b02183	Error:Cannot set headers after they are sent to the client
+20230408	14:23:11	228b4bbe-61e3-4bdb-a6ef-2bcc6b8d3fb4	Error:Cannot set headers after they are sent to the client
+20230408	14:23:11	5caec048-99f1-4263-8f72-7cfdf63b9efc	Error:Cannot set headers after they are sent to the client
+20230408	14:23:11	ab2b0c0f-c280-485d-950e-23f45ff9808e	Error:Cannot set headers after they are sent to the client
+20230408	14:23:12	08e1671e-12ac-435a-8df6-0fb467d2a016	Error:Cannot set headers after they are sent to the client
+20230408	14:23:12	edd387ca-f35f-4362-a312-6eb996e92746	Error:Cannot set headers after they are sent to the client
+20230408	14:23:40	a9223690-30f1-461a-aafc-5c49cf705bf1	Error:Cannot set headers after they are sent to the client
+20230408	14:23:41	842ed63f-67df-40da-8342-8e9df2e7aa29	Error:Cannot set headers after they are sent to the client
+20230408	14:23:53	b753914c-3ce8-4b79-9823-953154c23458	Error:Cannot set headers after they are sent to the client
+20230408	14:23:54	f67d1e55-03bc-4c3f-916e-84ee28d4cffe	Error:Cannot set headers after they are sent to the client
+20230408	14:23:54	ab8e479c-e2e3-4679-b332-7d2d519cf242	Error:Cannot set headers after they are sent to the client
+20230408	14:23:54	6e4e3f54-ea94-43a7-b1a6-95505d99b661	Error:Cannot set headers after they are sent to the client
+20230408	14:23:54	6e002a2a-c254-4841-8988-c2a107b01d37	Error:Cannot set headers after they are sent to the client
+20230408	14:23:54	4fd41f10-383f-4d34-8713-bcd7e7842056	Error:Cannot set headers after they are sent to the client
+20230408	14:23:54	d9e6e3a2-62d1-4231-a1ef-0062907deab4	Error:Cannot set headers after they are sent to the client
+20230408	14:23:54	e350bd31-7d7a-440a-9ffb-3471fcffb4ad	Error:Cannot set headers after they are sent to the client
+20230408	14:23:55	a203d117-88bb-4833-a326-428c4a85c281	Error:Cannot set headers after they are sent to the client
+20230408	14:23:55	22c184e0-9c73-4935-8994-e3e2e249b60c	Error:Cannot set headers after they are sent to the client
+20230408	14:23:55	3b9cc698-7ff6-4d5e-ab1b-5a413bc06bbc	Error:Cannot set headers after they are sent to the client
+20230408	14:23:59	21990932-6889-428a-a52e-83408d1c7d88	Error:Cannot set headers after they are sent to the client
+20230408	14:24:00	b329e57d-7d5f-4416-b3b5-25f4d8abb040	Error:Cannot set headers after they are sent to the client
+20230408	14:24:00	5b31a53c-96ef-4db7-bb00-33e649cbfa3a	Error:Cannot set headers after they are sent to the client
+20230408	14:24:00	fc19b937-2b03-4db7-8134-a28f65abbe77	Error:Cannot set headers after they are sent to the client
+20230408	14:24:00	dbd247bd-742a-4dea-afa2-85a56cc5b937	Error:Cannot set headers after they are sent to the client
+20230408	14:24:18	22c9e383-a30a-4088-bb15-cc5d3370225b	Error:Cannot set headers after they are sent to the client
+20230408	22:45:25	8c9b6897-515c-4a51-9d51-bdfc09fe78c2	TypeError:Cannot read properties of undefined (reading 'username')
+20230408	22:45:58	16181457-4a49-489a-baaa-f0a57c953e54	TypeError:Cannot read properties of undefined (reading 'username')
+20230408	22:52:02	cb85632c-4d17-4ac5-9eaa-5ce2793b7bb1	TypeError:Cannot read properties of undefined (reading 'username')
+20230408	22:56:41	e9fc2ad8-30d6-44c8-8da4-d45999f84d1e	TypeError:rolesArray.includes(...).find is not a function
+20230408	23:17:56	d9e7f633-1b6f-4929-ab2f-9eaa72e22623	TypeError:rolesArray.includes(...).find is not a function
+20230408	23:20:46	ac88dd3e-ede3-46e9-9e7f-7a84d7a5aac6	TypeError:rolesArray.includes(...).find is not a function
+20230409	11:39:48	814028aa-aced-486f-a7ee-a80ba53c9cf4	TypeError:rolesArray.includes(...).find is not a function
+20230409	12:05:17	4b77594a-1d7b-456e-b078-5d29f121f313	Error:Cannot set headers after they are sent to the client

@@ -1,0 +1,10 @@
+body{
+    color: white;
+    font-family: monospace;
+    font-size: 50px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;    
+}
